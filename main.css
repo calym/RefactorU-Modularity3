@@ -1,0 +1,55 @@
+/* ADD YOUR STYLES HERE */
+
+.simpleform label, .morecomplex label, .validation label {
+	padding:20px;
+	display:inline-block;
+	width: 15%;
+	text-align:right;
+}
+
+.simpleform input, .morecomplex input, .validation input {
+	border-radius:5px;
+	border:1px solid #BBB;
+	height:25px;
+	display:inline-block;
+	width:40%;	
+}
+
+#city {
+	width:24%;
+}
+
+#state {
+	width:5%;
+
+}
+#statelabel {
+	padding-left:15px;
+	width:5%;
+	}
+
+.checkbox label{
+	width:45%;	
+}
+
+.checkbox input {
+	width:8%;
+}
+
+.submit {
+	display:inline-block;
+	width:100%;
+	margin-left: 20%;
+	font-family:Verdana;
+
+}
+
+.submit input{
+	height:40px;
+}
+
+.validation input {
+	width:35%;
+}
+
+
